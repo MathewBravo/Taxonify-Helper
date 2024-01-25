@@ -1,0 +1,70 @@
+Root
+    Finance
+        Accounting
+            Taxes
+            Payroll
+        Treasury
+    Operations
+        Logistics
+            Shipping
+            Receiving
+            Inventory Management
+        Manufacturing
+            Production Line 1
+                Workstation 1
+                Workstation 2
+                Workstation 3
+            Production Line 2
+                Workstation 1
+                Workstation 2
+    Marketing
+        Advertising
+            Online
+                Social Media
+                SEO
+            Print
+                Magazines
+                Billboards
+        Public Relations
+    Human Resources
+        Recruitment
+            Interviews
+            Onboarding
+        Employee Relations
+        Training
+            Leadership
+            Technical Skills
+    Technology
+        Software Development
+            Frontend
+                React
+                Angular
+            Backend
+                Node.js
+                Django
+        IT Support
+            Helpdesk
+            Infrastructure
+        Security
+            Physical
+            Cybersecurity
+    Sales
+        Domestic
+            Regional
+                North
+                South
+                East
+                West
+            Local
+                Urban
+                Suburban
+                Rural
+        International
+            Export
+            Import
+    Research and Development
+        Prototyping
+        Testing
+            Alpha
+            Beta
+        Product Improvement

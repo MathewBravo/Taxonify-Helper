@@ -1,0 +1,16 @@
+Sales
+    Insurance
+    Retail
+        Shopping
+            Mall
+            Outlet
+        Dining
+        Activity
+            Gym
+                Large
+                Medium
+            Leisure
+    Commercial
+        Warehouse
+        Parking
+

@@ -1,0 +1,134 @@
+Organization
+    Finance
+        Accounting
+            Accounts Receivable
+            Accounts Payable
+                Vendor Payments
+                    Payment Processing
+                        Automated Clearing House
+                            Reconciliation
+                                Daily
+                                    Manual Adjustments
+                                Weekly
+                                    Audit Trail
+                                Monthly
+                                    Reports
+                                        Summary
+                                        Detailed
+        Budgeting
+            Quarterly Budgets
+            Annual Budgets
+                2021
+                2022
+                2023
+        Taxation
+            Compliance
+            Returns Filing
+                Federal
+                    Tax Forms
+                        Form 1040
+                        Form W-2
+                    Payments
+                State
+                    State Forms
+                        Form D-400
+                        Form IT-201
+                    Refunds
+                        Processing
+                        Distribution
+    Human Resources
+        Recruitment
+            Interviews
+                First Round
+                Technical Interview
+                    Coding Test
+                    System Design
+                HR Interview
+            Onboarding
+        Employee Relations
+        Benefits Management
+    IT Department
+        Software Development
+            Frontend
+                React
+                Angular
+            Backend
+                Node.js
+                Django
+                    Models
+                    Views
+                    URLs
+                Database Management
+                    MySQL
+                    PostgreSQL
+                        Tables
+                        Indices
+                        Triggers
+            DevOps
+                CI/CD
+                    Jenkins
+                    GitLab CI
+                Containerization
+                    Docker
+                        Images
+                        Containers
+                        Docker Compose
+                    Kubernetes
+                        Pods
+                        Services
+                        Deployments
+        Technical Support
+            Help Desk
+                Ticketing System
+                    Issue Resolution
+                        Client Side
+                        Server Side
+            Maintenance
+    Operations
+        Logistics
+            Shipping
+            Receiving
+        Supply Chain Management
+            Inventory Control
+                Stock Levels
+                Reorder Points
+                Safety Stock
+            Vendor Relations
+    Marketing
+        Advertising
+            Online
+                Social Media
+                    Facebook
+                    Instagram
+                Search Engines
+                    Google Ads
+                    Bing Ads
+            Print Media
+                Magazines
+                Newspapers
+        Public Relations
+        Market Research
+            Surveys
+            Focus Groups
+            Data Analysis
+                Qualitative
+                Quantitative
+    Sales
+        Retail
+            Shopping
+                Mall
+                Outlet
+            Dining
+            Activity
+                Gym
+                    Large
+                    Medium
+                Leisure
+        Commercial
+            Warehouse
+            Parking
+            Office Spaces
+                Leasing
+                Maintenance
+                    Daily Cleaning
+                    HVAC Systems
