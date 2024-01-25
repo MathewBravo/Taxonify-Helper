@@ -1,16 +1,160 @@
-Sales
-    Insurance
-    Retail
-        Shopping
-            Mall
-            Outlet
-        Dining
-        Activity
-            Gym
-                Large
-                Medium
-            Leisure
-    Commercial
-        Warehouse
-        Parking
-
+Agriculture
+Greenhouse, Nursery, and Floriculture Production
+2. Energy and Utilities:
+Electric Power Generation, Transmission, and Distribution
+Utility System Construction
+3. Construction and Building Services:
+Residential Building Construction
+Foundation, Structure, and Building Exterior Contractors
+Building Equipment Contractors
+Building Finishing Contractors
+Other Specialty Trade Contractors
+4. Manufacturing:
+Bakeries and Tortilla Manufacturing
+Beverage Manufacturing
+Printing and Related Support Activities
+Glass and Glass Product Manufacturing
+Household Appliance Manufacturing
+Motor Vehicle Manufacturing
+Aerospace Product and Parts Manufacturing
+Other Miscellaneous Manufacturing
+5. Wholesale and Retail:
+Lumber and Other Construction Materials Merchant Wholesalers
+Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers
+Machinery, Equipment, and Supplies Merchant Wholesalers
+Drugs and Druggists' Sundries Merchant Wholesalers
+Automobile Dealers
+Other Motor Vehicle Dealers
+Automotive Parts, Accessories, and Tire Stores
+Furniture Stores
+Home Furnishings Stores
+Electronics and Appliance Stores
+Building Material and Supplies Dealers
+Lawn and Garden Equipment and Supplies Stores
+Grocery Stores
+Specialty Food Stores
+Beer, Wine, and Liquor Stores
+Health and Personal Care Stores
+Gasoline Stations
+Clothing Stores
+Shoe Stores
+Jewelry, Luggage, and Leather Goods Stores
+Sporting Goods, Hobby, and Musical Instrument Stores
+Book Stores and News Dealers
+Department Stores
+General Merchandise Stores, including Warehouse Clubs and Supercenters
+Florists
+Office Supplies, Stationery, and Gift Stores
+Used Merchandise Stores
+Other Miscellaneous Store Retailers
+6. Transportation and Warehousing:
+Rail Transportation
+Water Transportation
+Deep Sea, Coastal, and Great Lakes Water Transportation
+Specialized Freight Trucking
+Transit and Ground Passenger Transportation
+Urban Transit Systems
+Interurban and Rural Bus Transportation
+Taxi and Limousine Service
+Other Transit and Ground Passenger Transportation
+Scenic and Sightseeing Transportation
+Scenic and Sightseeing Transportation, Land
+Scenic and Sightseeing Transportation, Water
+Support Activities for Air Transportation
+Support Activities for Road Transportation
+Postal Service
+Couriers and Express Delivery Services
+Warehousing and Storage
+7. Information and Communication:
+Motion Picture and Video Industries
+Sound Recording Industries
+Wired and Wireless Telecommunications Carriers
+Data Processing, Hosting, and Related Services
+Other Information Services
+8. Financial Services:
+Depository Credit Intermediation
+Non depository Credit Intermediation
+Activities Related to Credit Intermediation
+Securities and Commodity Contracts Intermediation and Brokerage
+Other Financial Investment Activities
+Agencies, Brokerages, and Other Insurance Related Activities
+9. Real Estate and Rental:
+Lessors of Real Estate
+Offices of Real Estate Agents and Brokers
+Activities Related to Real Estate
+Automotive Equipment Rental and Leasing
+Consumer Goods Rental
+10. Professional and Business Services:
+Legal Services
+Accounting, Tax Preparation, Bookkeeping, and Payroll Services
+Architectural, Engineering, and Related Services
+Specialized Design Services
+Management, Scientific, and Technical Consulting Services
+Advertising, Public Relations, and Related Services
+Other Professional, Scientific, and Technical Services
+Management of Companies and Enterprises
+Employment Services
+Travel Arrangement and Reservation Services
+Investigation and Security Services
+Services to Buildings and Dwellings
+Other Support Services
+11. Public Administration and Defense:
+Executive, Legislative, and Other General Government Support
+Justice, Public Order, and Safety Activities
+Administration of Economic Programs
+National Security and International Affairs
+12. Education:
+Elementary and Secondary Schools
+Junior Colleges
+Colleges, Universities, and Professional Schools
+Business Schools and Computer and Management Training
+Technical and Trade Schools
+Other Schools and Instruction
+Educational Support Services
+13. Healthcare and Social Assistance:
+Offices of Physicians
+Offices of Dentists
+Offices of Other Health Practitioners
+Outpatient Care Centers
+Medical and Diagnostic Laboratories
+Home Health Care Services
+General Medical and Surgical Hospitals
+Psychiatric and Substance Abuse Hospitals
+Specialty (except Psychiatric and Substance Abuse) Hospitals
+Nursing and Residential Care Facilities
+Nursing Care Facilities (Skilled Nursing Facilities)
+Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities
+Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly
+Social Assistance
+Individual and Family Services
+Community Food and Housing, and Emergency and Other Relief Services
+Child Day Care Services
+14. Arts, Entertainment, and Recreation:
+Performing Arts Companies
+Spectator Sports
+Promoters of Performing Arts, Sports, and Similar Events
+Museums, Historical Sites, and Similar Institutions
+Amusement Parks and Arcades
+Gambling Industries
+Other Amusement and Recreation Industries
+15. Accommodation and Food Services:
+Traveler Accommodation
+RV (Recreational Vehicle) Parks and Recreational Camps
+Special Food Services
+Drinking Places (Alcoholic Beverages)
+Restaurants and Other Eating Places
+16. Other Services:
+Automotive Repair and Maintenance
+Electronic and Precision Equipment Repair and Maintenance
+Personal and Household Goods Repair and Maintenance
+Personal Care Services
+Death Care Services
+Drycleaning and Laundry Services
+Other Personal Services
+Religious Organizations
+Civic and Social Organizations
+17. Waste Management and Remediation Services:
+Waste Management and Remediation Services
+Waste Collection
+Waste Treatment and Disposal
+Remediation and Other Waste Management Services
